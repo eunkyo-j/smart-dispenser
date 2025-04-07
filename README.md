@@ -45,7 +45,7 @@
 
 > 아래 이미지는 예시입니다. 실제 프로젝트 이미지로 교체해주세요!
 
-![정수기 외형 이미지](./img/smart_dispenser.jpg)
+![정수기 외형 이미지](-/img/smart_dispenser1.jpg)
 
 ---
 
