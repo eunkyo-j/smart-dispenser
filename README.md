@@ -43,11 +43,11 @@
 
 ## 📷 프로젝트 이미지
 
-![Image](https://github.com/user-attachments/assets/30f35279-f0cc-4ac7-b757-1c15e138aebd)
+![Image](https://github.com/user-attachments/assets/7f1308c4-9def-4789-bfa0-2551269dd940)
+![Image](https://github.com/user-attachments/assets/e6eb7f2e-f0b8-4b20-9880-bfdb467366a7)
 ![Image](https://github.com/user-attachments/assets/12380172-7be6-400b-9a85-7e1ce83f84c0)
 ![Image](https://github.com/user-attachments/assets/85269e11-785b-421b-9b8d-b7f7354c4727)
-![Image](https://github.com/user-attachments/assets/e6eb7f2e-f0b8-4b20-9880-bfdb467366a7)
-![Image](https://github.com/user-attachments/assets/7f1308c4-9def-4789-bfa0-2551269dd940)
+![Image](https://github.com/user-attachments/assets/30f35279-f0cc-4ac7-b757-1c15e138aebd)
 ---
 
 ## 💻 주요 코드 (Arduino)
